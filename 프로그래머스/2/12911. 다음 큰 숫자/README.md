@@ -64,5 +64,6 @@
 입출력 예#2<br>
 15(1111)의 다음 큰 숫자는 23(10111)입니다.</p>
 
+*String을 사용하는 것 보다는 char배열로 하는 것이 속도가 빠르다
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
